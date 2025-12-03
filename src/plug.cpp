@@ -1,7 +1,5 @@
-#include "plug.h"
+#include "plug.hpp"
 #include <stdio.h>
-
-
 
 void plug_function()
 {
