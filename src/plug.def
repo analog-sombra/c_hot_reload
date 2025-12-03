@@ -1,3 +1,5 @@
 LIBRARY "plug"
 EXPORTS
+    plug_init
+    plug_update
     plug_function
